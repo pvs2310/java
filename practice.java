@@ -1,5 +1,5 @@
 
-
+// constructor example
 class medicine
 {
     int value;
@@ -17,7 +17,8 @@ class medicine
     
 
     }
-
+        // getters and setters we no need to write the complete code double click the mouse select
+        // source action and select getters and setters
     public int getValue() {
         return value;
     }
